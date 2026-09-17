@@ -1,0 +1,6 @@
+.idea/
+.cadence/
+.venv
+
+.omx/
+*codex*/
